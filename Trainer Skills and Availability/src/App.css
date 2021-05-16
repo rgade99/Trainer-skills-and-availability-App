@@ -1,0 +1,32 @@
+body{
+    background-color: #1c6785;
+    /* background image used from: wallls.com/wallpaper/169705 */
+    background-image: url(pastel.png);
+    background-repeat: no-repeat;
+    background-size: inherit;
+}
+
+.extra{
+    margin-left: 5px;
+}
+
+.dashboard{
+    margin-top: 15px;
+}
+
+.signin{
+    margin-top: 30px;
+}
+
+.brand-logo{
+    margin-left: 10px;
+}
+
+.create{
+    margin-top: 29px;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+}

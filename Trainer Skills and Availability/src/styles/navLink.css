@@ -1,0 +1,8 @@
+a.navLink{
+  font-size: large;
+}
+
+a.navLink:hover{
+  font-weight: bold;
+  background-color: #26c6da;
+}
